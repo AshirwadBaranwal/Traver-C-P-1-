@@ -7,6 +7,7 @@ import Desination from "./components/Desination";
 import PricingSection from "./components/PricingSection";
 import CustomerReview from "./components/CustomerReview";
 import DiscountSec from "./components/DiscountSec";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <PricingSection />
         <CustomerReview />
         <DiscountSec />
+        <Footer />
       </div>
     </>
   );

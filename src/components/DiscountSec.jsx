@@ -2,7 +2,7 @@ import React from "react";
 
 const DiscountSec = () => {
   return (
-    <div className="px-14 mb-20 font-roboto ">
+    <div className="px-14  font-roboto ">
       <div className="bg-[#fff4e9] h-[350px] w-full  rounded-[2.5rem] flex flex-col items-center justify-center  relative">
         <span className="text-5xl font-bold">
           Let's Don't Miss The 50% Discount &
