@@ -5,6 +5,8 @@ import Aboutsection from "./components/Aboutsection";
 import FeaturesSec from "./components/FeaturesSec";
 import Desination from "./components/Desination";
 import PricingSection from "./components/PricingSection";
+import CustomerReview from "./components/CustomerReview";
+import DiscountSec from "./components/DiscountSec";
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
         <FeaturesSec />
         <Desination />
         <PricingSection />
+        <CustomerReview />
+        <DiscountSec />
       </div>
     </>
   );
